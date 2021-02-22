@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
   - /cv
   - /cv/
+  - /CV/
+  - /Cv/
 ---
 
 
