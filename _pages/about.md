@@ -19,7 +19,7 @@ redirect_from:
 
 Links
 ======
-- [Resume](https://vibhabelavadi.github.io/files/VibhaBelavadiResume.pdf)
+- [Resume](https://vibhabelavadi.github.io/files/VibhaBelavadi_Resume.pdf)
 - [Google Scholar](https://scholar.google.com/citations?user=6BAyYuwAAAAJ&hl=en)
 - [Linkedin](https://www.linkedin.com/in/vibhabelavadi)
 - [dblp](https://dblp.uni-trier.de/pid/282/0068.html), [Semantic Scholar](https://www.semanticscholar.org/author/Vibha-Belavadi/2045079863), [Research Gate](https://www.researchgate.net/profile/Vibha_Belavadi), [orcid](https://orcid.org/0000-0002-1244-7702)
