@@ -27,9 +27,9 @@ Links
 Research Work
 ======
 -	[MultiModal Deception Detection: Accuracy, Applicability and Generalizability](https://ieeexplore.ieee.org/abstract/document/9325368)<br/>
-  <b>Vibha Belavadi</b>, Yan Zhou, Jonathan Z Bakdash, Murat Kantarcioglu, Daniel C Krawczyk, Linda Nguyen, Jelena Rakic, Bhavani Thuraisingham (UT Dallas & US Army Research Lab). <b>IEEE TPS 2020</b>.
+  <b>Vibha Belavadi</b>, Yan Zhou, Jonathan Z Bakdash, Murat Kantarcioglu, Daniel C Krawczyk, Linda Nguyen, Jelena Rakic, Bhavani Thuraisingham (UT Dallas & US Army Research Lab). <b>IEEE TPS 2020</b>. 
 -	[Attacking Machine Learning Models for Social Good](https://link.springer.com/chapter/10.1007/978-3-030-64793-3_25)<br/>
-  **Vibha Belavadi**, Yan Zhou, Murat Kantarcioglu, Bhavani Thuraisingham (UT Dallas). <b>GameSec 2020</b>.
+  **Vibha Belavadi**, Yan Zhou, Murat Kantarcioglu, Bhavani Thuraisingham (UT Dallas). <b>GameSec 2020</b> <b>[pdf](https://vibhabelavadi.github.io/files/GameSec_2020_Paper.pdf)</b>.
 
 Academic Services
 ======
