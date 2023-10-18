@@ -12,10 +12,9 @@ redirect_from:
   - /Cv/
 ---
 
+- I'm currently a Machine Learning Engineer at Adobe working in Adobe Search. Previously, I was a PhD candidate at the [The University of Texas at Dallas](https://www.utdallas.edu) and worked as a Research Assistant at the Data Security and Privacy Lab advised by [Dr. Bhavani Thuraisingham](https://www.utdallas.edu/~bhavani.thuraisingham/) and [Dr. Murat Kantarcioglu](https://www.utdallas.edu/~muratk/). I graduated in August 2022.
 
-- I am a PhD candidate at the [The University of Texas at Dallas](https://www.utdallas.edu) and currently working as a Research Assistant at the Data Security and Privacy Lab advised by [Dr. Bhavani Thuraisingham](https://www.utdallas.edu/~bhavani.thuraisingham/) and [Dr. Murat Kantarcioglu](https://www.utdallas.edu/~muratk/). 
-
-- My area of interests are Adversarial Machine Learning & Deep Learning, Computer Vision, Data Security & Privacy, and Model Interpretability and Fairness for Social Good.
+- My area of research during my PhD were Adversarial Machine Learning & Deep Learning, Computer Vision, Data Security & Privacy, and Model Interpretability and Fairness for Social Good.
 
 Links
 ======
