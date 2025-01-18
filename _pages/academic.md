@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /academic
 title: "Academic"
 excerpt: "Academic"
 author_profile: true
