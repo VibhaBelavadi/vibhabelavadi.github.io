@@ -3,4 +3,4 @@ main:
   - title: "CV"
     url: /files/VibhaBelavadiResume.pdf
   - title: "Academic"
-    url: /_pages/academic.md
+    url: /academic
