@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vibha Belavadi"
 title_separator          : "-"
 name                     : &name "Vibha Belavadi"
-description              : &description "PhD candidate at The University of Texas at Dallas"
+description              : &description "Machine Learning Engineer at Adobe"
 url                      : https://vibhabelavadi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vibhabelavadi.github.io"
@@ -80,17 +80,18 @@ analytics:
 author:
   name             : "Vibha Belavadi"
   avatar           : "IMG_4183.jpeg"
-  bio              : "PhD candidate at The University of Texas at Dallas"
-  location         : "Richardson, Texas"
+  bio              : "Machine Learning Engineer at Adobe"
+  location         : "San Jose, California"
   employer         :
   url              : https://vibhabelavadi.github.io
+  linkedin         : # "vibhabelavadi"
   googlescholar    : # https://scholar.google.com/citations?user=6BAyYuwAAAAJ&hl=en
   dblp             : # https://dblp.org/pid/282/0068.html
   email            : vibhacbelavadi@gmail.com
   github           : "VibhaBelavadi"
+  medium           : https://medium.com/@vibha.belawadi
+  orcid            : 0000-0002-1244-7702
   researchgate     : # https://www.researchgate.net/profile/Vibha_Belavadi
-  linkedin         : # "vibhabelavadi"
-  orcid            : 
   uri              :
   bitbucket        :
   codepen          :
@@ -106,7 +107,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "Vibha_Belavadi"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
