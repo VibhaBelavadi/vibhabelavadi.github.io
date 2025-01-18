@@ -82,16 +82,16 @@ author:
   avatar           : "IMG_4183.jpeg"
   bio              : "Machine Learning Engineer at Adobe"
   location         : "San Jose, California"
-  employer         :
-  url              : https://vibhabelavadi.github.io
-  linkedin         : # "vibhabelavadi"
-  googlescholar    : # https://scholar.google.com/citations?user=6BAyYuwAAAAJ&hl=en
-  dblp             : # https://dblp.org/pid/282/0068.html
+  employer         : "Adobe"
+  url              : "https://vibhabelavadi.github.io"
+  linkedin         : /in/vibhabelavadi
+  googlescholar    : https://scholar.google.com/citations?user=6BAyYuwAAAAJ&hl=en
   email            : vibhacbelavadi@gmail.com
-  github           : "VibhaBelavadi"
+  github           : VibhaBelavadi
   medium           : https://medium.com/@vibha.belawadi
   orcid            : 0000-0002-1244-7702
   researchgate     : # https://www.researchgate.net/profile/Vibha_Belavadi
+  dblp             : # https://dblp.org/pid/282/0068.html
   uri              :
   bitbucket        :
   codepen          :
