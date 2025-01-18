@@ -1,6 +1,4 @@
-- Previously, I was a PhD candidate at the [The University of Texas at Dallas](https://www.utdallas.edu) and worked as a Research Assistant at the Data Security and Privacy Lab advised by [Dr. Bhavani Thuraisingham](https://www.utdallas.edu/~bhavani.thuraisingham/) and [Dr. Murat Kantarcioglu](https://www.utdallas.edu/~muratk/). I graduated in August 2022.
-
-- My area of academic research during my PhD was Adversarial Machine Learning & Deep Learning, Computer Vision, Data Security & Privacy, and Model Interpretability and Fairness for Social Good.
+I was a PhD candidate at the [The University of Texas at Dallas](https://www.utdallas.edu) and worked as a Research Assistant at the Data Security and Privacy Lab advised by [Dr. Bhavani Thuraisingham](https://www.utdallas.edu/~bhavani.thuraisingham/) and [Dr. Murat Kantarcioglu](https://website.cs.vt.edu/people/faculty/murat-kantarcioglu.html) and graduated in August 2022. My area of academic research during my PhD was Adversarial Machine Learning & Deep Learning, Computer Vision, Data Security & Privacy, and Model Interpretability and Fairness for Social Good.
 
 Links
 ======
@@ -8,6 +6,7 @@ Links
 - [Resume](https://vibhabelavadi.github.io/files/VibhaBelavadiResume.pdf)
 - [Github](https://www.github.com/VibhaBelavadi)
 - Other Links: [Google Scholar](https://scholar.google.com/citations?user=6BAyYuwAAAAJ&hl=en), [dblp](https://dblp.uni-trier.de/pid/282/0068.html), [Semantic Scholar](https://www.semanticscholar.org/author/Vibha-Belavadi/2045079863), [Research Gate](https://www.researchgate.net/profile/Vibha_Belavadi), [orcid](https://orcid.org/0000-0002-1244-7702)
+
 
 Selected Publications
 ======
@@ -19,6 +18,7 @@ Dewang Sultania, Zhaoyu Lu, Twisha Naik, Franck Dernoncourt, David Seunghyun Yoo
   <b>Vibha Belavadi</b>, Yan Zhou, Jonathan Z Bakdash, Murat Kantarcioglu, Daniel C Krawczyk, Linda Nguyen, Jelena Rakic, Bhavani M. Thuraisingham (UT Dallas & US Army Research Lab), <b>2020 IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications</b>, <b>[pdf](https://vibhabelavadi.github.io/files/IEEE_TPS_vision_2020.pdf)</b>.
 -	[Attacking Machine Learning Models for Social Good](https://link.springer.com/chapter/10.1007/978-3-030-64793-3_25)<br/>
   **Vibha Belavadi**, Yan Zhou, Murat Kantarcioglu, Bhavani M. Thuraisingham (UT Dallas), <b>2020 GameSec: International Conference on Decision and Game Theory for Security</b>, <b>[pdf](https://vibhabelavadi.github.io/files/GameSec_2020_Paper.pdf)</b>.
+
 
 Academic Services
 ======
