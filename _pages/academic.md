@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Academic"
+excerpt: "Academic"
+author_profile: true
+redirect_from: 
+  - /academic/
+  - /academic.html
+---
+
 I was a PhD candidate at the [The University of Texas at Dallas](https://www.utdallas.edu) and worked as a Research Assistant at the Data Security and Privacy Lab advised by [Dr. Bhavani Thuraisingham](https://www.utdallas.edu/~bhavani.thuraisingham/) and [Dr. Murat Kantarcioglu](https://website.cs.vt.edu/people/faculty/murat-kantarcioglu.html) and graduated in August 2022. My area of academic research during my PhD was Adversarial Machine Learning & Deep Learning, Computer Vision, Data Security & Privacy, and Model Interpretability and Fairness for Social Good.
 
 Links
