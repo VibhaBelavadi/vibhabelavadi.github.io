@@ -24,9 +24,4 @@ Dewang Sultania, Zhaoyu Lu, Twisha Naik, Franck Dernoncourt, David Seunghyun Yoo
   <b>Vibha Belavadi</b>, Yan Zhou, Jonathan Z Bakdash, Murat Kantarcioglu, Daniel C Krawczyk, Linda Nguyen, Jelena Rakic, Bhavani M. Thuraisingham (UT Dallas & US Army Research Lab), <b>2020 IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications</b>, <b>[pdf](https://vibhabelavadi.github.io/files/IEEE_TPS_vision_2020.pdf)</b>
 -	[Attacking Machine Learning Models for Social Good](https://link.springer.com/chapter/10.1007/978-3-030-64793-3_25)<br/>
   **Vibha Belavadi**, Yan Zhou, Murat Kantarcioglu, Bhavani M. Thuraisingham (UT Dallas), <b>2020 GameSec International Conference on Decision and Game Theory for Security</b>, <b>[pdf](https://vibhabelavadi.github.io/files/GameSec_2020_Paper.pdf)</b>
-
-Links
-======
-- [Linkedin](https://www.linkedin.com/in/vibhabelavadi)
-- [Resume](https://vibhabelavadi.github.io/files/VibhaBelavadiResume.pdf)
-- [Google Scholar](https://scholar.google.com/citations?user=6BAyYuwAAAAJ&hl=en)
+  
